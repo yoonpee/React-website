@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Chapter3/react-player"
+		},
+		{
+			"path": "../../../Project/shopping cart"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "시지온"
+	}
+}
